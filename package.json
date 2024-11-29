@@ -1,0 +1,17 @@
+{
+  "name": "chocolate_milk-project",
+  "version": "1.0.0",
+  "description": "A fool's attempt in creating a frontend framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve:examples": "npx http-server . -o ./examples/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "packages/runtime"
+  ]
+}
