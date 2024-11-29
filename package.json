@@ -10,8 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "private": true,
-  "workspaces": [
-    "packages/runtime"
-  ]
+  "private": true
 }
